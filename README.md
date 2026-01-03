@@ -1,1 +1,3 @@
-Testing YOLO badge again and confirm
+## Making a Dashboard for Quality Control
+- with shiny and qcc packages
+- X-bar and R charts
